@@ -1,3 +1,5 @@
+package storybook.playground
+
 import kotlinx.browser.document
 import react.FC
 import react.Props
