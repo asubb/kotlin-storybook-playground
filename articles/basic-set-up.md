@@ -421,6 +421,6 @@ Conclusion
   compilation and meaningful suggestions in IDE.
 * There is a big room for improvements, but now we understand what is the actual flow should be and what is better to
   automate within gradle plugin.
-* You can find the source code on [GitHub]()
+* You can find the source code on [GitHub](https://github.com/asubb/kotlin-storybook-playground/tree/basic-set-up)
 
 Feel free to leave any comments, feedback or ideas. Happy Koding!
