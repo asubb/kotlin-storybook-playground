@@ -65,6 +65,7 @@ dependencies {
     // can resolve the actual versions on https://github.com/JetBrains/kotlin-wrappers
     implementation(npm("react", "^17.0.2"))
     implementation(npm("react-dom", "^17.0.2"))
+    implementation(npm("react-router", "^6.2.2"))
     implementation(npm("react-router-dom", "^6.2.2"))
 
     // storybook specific dependencies
